@@ -1,0 +1,21 @@
+.van-nav-bar.page-nav-bar {
+  background-color: #3296fa;
+}
+.page-nav-bar .van-nav-bar__title {
+  color: #fff;
+}
+.van-search__action {
+  color: #fff;
+}
+.van-search__content {
+  border-radius: 20px !important;
+}
+.van-nav-bar__title {
+  font-size: 22px;
+}
+.fiexd {
+  position: fixed;
+  top: 80px;
+  left: 0;
+  overflow-y: auto;
+}
